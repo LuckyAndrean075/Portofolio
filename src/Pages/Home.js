@@ -62,7 +62,7 @@ function Home() {
   }, []);
 
   return (
-    <div className="container mx-auto max-width section md:flex justify-between mb-14">
+    <div className="container mx-auto max-width section flex justify-between mb-14 flex-col-reverse md:flex-row">
       <div>
         <h1
           ref={h11}
@@ -83,14 +83,19 @@ function Home() {
         </p>
         <button
           ref={h13}
-          class="rounded-md bg-teal-500 p-3 text-white font-bold"
+          className="rounded-md bg-teal-500 p-3 text-white font-bold"
           onClick={handleDownload}
         >
           Download CV
         </button>
       </div>
-      <div className="md:mt-0">
-        <img ref={myimageref} className=" md:ml-auto" src={img} alt="Profile" />
+      <div className="md:mt-0 md:ml-4">
+        <img
+          ref={myimageref}
+          className="md:ml-auto md:mr-auto mb-4 md:mb-0"
+          src={img}
+          alt="Profile"
+        />
       </div>
     </div>
   );
