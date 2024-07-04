@@ -76,9 +76,6 @@ function Home() {
           ref={h12}
           className="py-8 mr-8 md:max-w-sm lg:max-w-3xl text-justify font-bold text-white"
         >
-          <span>
-            My name is <span className="text-teal-400">Lucky Andrean</span>,{" "}
-          </span>
           {about}
         </p>
         <button
