@@ -47,10 +47,17 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
+    Position: "FRONT END WEB DEVELOPMENT",
+    Company: `PT. OTAK KANAN `,
+    Location: "Tangerang",
+    Type: "MAGANG",
+    Duration: "2023",
+  },
+  {
     Position: "FRONT END JAVASCRIPT",
     Company: `Binar Academy - MSIB Kampus Merdeka`,
     Location: "Tangerang",
-    Type: "Full Time",
+    Type: "Bootcamp",
     Duration: "2023",
   },
 ];
