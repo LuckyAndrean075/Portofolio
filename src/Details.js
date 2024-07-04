@@ -33,7 +33,7 @@ export const personalDetails = {
   name: "Lucky",
   tagline: "I build things for web",
   img: profile,
-  about: `Nama saya Lucky Andrean, seorang fresh graduate dari Universitas Negeri Surabaya dengan semangat tinggi untuk terus belajar dan mengembangkan diri. Kejujuran dan tanggung jawab adalah prinsip hidup saya, dan saya sangat tertarik pada pemrograman dan logika. Pengalaman saya mencakup keaktifan dalam berbagai organisasi dan peran sebagai co-asisten dosen pada mata kuliah Manajemen Proyek. Saya selalu menikmati proses belajar dan mengasah keterampilan, siap menghadapi tantangan, dan meraih kesuksesan dalam karier saya.`,
+  about: `seorang fresh graduate dari Universitas Negeri Surabaya dengan semangat tinggi untuk terus belajar dan mengembangkan diri. Kejujuran dan tanggung jawab adalah prinsip hidup saya, dan saya sangat tertarik pada pemrograman dan logika. Pengalaman saya mencakup keaktifan dalam berbagai organisasi dan peran sebagai co-asisten dosen pada mata kuliah Manajemen Proyek. Saya selalu menikmati proses belajar dan mengasah keterampilan, siap menghadapi tantangan, dan meraih kesuksesan dalam karier saya.`,
 };
 
 // Enter your Social Media URLs here
