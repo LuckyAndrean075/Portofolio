@@ -6,7 +6,7 @@ function Home() {
   const { name, about, img } = personalDetails;
 
   const handleDownload = () => {
-    const url = `https://drive.google.com/uc?export=download&id=1VI5sfBgiFT0xKx8X9EBSdt1IGX51LwJV`;
+    const url = `https://drive.google.com/uc?export=download&id=1BLIToH9o3My7d4hMDk-Tln3oXPwPFl9p`;
     window.open(url, "_blank");
   };
   const h11 = useRef();
