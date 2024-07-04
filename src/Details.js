@@ -33,7 +33,7 @@ export const personalDetails = {
   name: "Lucky",
   tagline: "I build things for web",
   img: profile,
-  about: `I am a passionate student who is about to finish my studies at Surabaya State University. Curiosity is my best friend, and I am always ready to learn new things. Honesty and responsibility are my life principles. My dream career is to become a developer because I am interested in programming and logic. I find joy in the process of constantly learning and honing my skills. Ready to conquer challenges and achieve success!`,
+  about: `Nama saya Lucky Andrean, seorang fresh graduate dari Universitas Negeri Surabaya dengan semangat tinggi untuk terus belajar dan mengembangkan diri. Kejujuran dan tanggung jawab adalah prinsip hidup saya, dan saya sangat tertarik pada pemrograman dan logika. Pengalaman saya mencakup keaktifan dalam berbagai organisasi dan peran sebagai co-asisten dosen pada mata kuliah Manajemen Proyek. Saya selalu menikmati proses belajar dan mengasah keterampilan, siap menghadapi tantangan, dan meraih kesuksesan dalam karier saya.`,
 };
 
 // Enter your Social Media URLs here
