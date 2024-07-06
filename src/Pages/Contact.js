@@ -21,9 +21,9 @@ function Contact() {
         <h3
           className="text-center text-base lg:text-lg font-semibold md:font-bold"
           style={{ color: "rgb(45, 191, 212)" }}
-          href={`mailto:${email}`}
+          
         >
-          {email}
+          <a href={`mailto:${email}`}>{email}</a>
         </h3>
 
         <h3
