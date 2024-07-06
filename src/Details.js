@@ -26,7 +26,7 @@ import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
 import nicetracer from "./assets/projects/propject nicetracer.png";
-import kursusonline from "./assets/projects/kursusonline.png";
+import kursusonline from "./assets/projects/Kursusonline1.png";
 
 // Logos
 
