@@ -25,6 +25,8 @@ import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
+import nicetracer from "./assets/projects/propject nicetracer.png";
+import kursusonline from "./assets/projects/kursusonline.png";
 
 // Logos
 
@@ -99,28 +101,34 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
+    title: "nicetracer.my.id",
+    image: nicetracer,
+    description: `a website for tracer study alumni`,
+    techstack: "Laravel, PHP, HTML, CSS",
+    previewLink: "https://nicetracer.my.id/",
+  },
+  {
+    title: "KursusOnline.com",
+    image: kursusonline,
+    description: `a website for online courses`,
+    techstack: "Next.JS, Tailwind, HTML, CSS",
+    previewLink: "",
+  },
+  {
     title: "Tiketku.com",
     image: projectImage1,
     description: `a website for booking airplane tickets online`,
     techstack: "React.JS, Bootstrap, HTML, CSS",
     previewLink: "https://final-project-binar-group-5.vercel.app/",
-    githubLink: "https://github.com",
+
   },
-  {
-    title: "MovieList",
-    image: projectImage2,
-    description: `This website is a platform that presents a complete catalog of movies from various genres and release years.`,
-    techstack: "React.JS, Sass, HTML, CSS",
-    previewLink: "https://movie-list-amber-three.vercel.app",
-    githubLink: "https://github.com",
-  },
+ 
   {
     title: "SIPAPASI - Smart Scholl APPS",
     image: projectImage3,
     description: `It is a Smart School application aimed at the SMP / MTs school market. `,
     techstack: "Android, React Native",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
   },
 ];
 
